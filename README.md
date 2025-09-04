@@ -16,7 +16,7 @@ This is a simple Tic Tac Toe game built using Android Studio. The game allows tw
 - **Java Development Kit (JDK)**: Make sure you have the JDK installed. The game is developed using Java.
 
 ### Installation
-- Refer https://developer.android.com/studio
+- Refer to https://developer.android.com/studio
 
 ## Screenshots
 ![Screenshot (1376)](https://github.com/user-attachments/assets/ec95aa00-6a44-4501-9c37-09b2faad6a61)
